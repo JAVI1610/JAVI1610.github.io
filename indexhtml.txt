@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>Animorphs fanpage</title>
+</head>
+<body>
+<h1>Animorphs</h1>
+<p>Este blog está dedicado a desahogar mi ferviente amor por el universo de "Animorphs" y con suerte convencerte de adentrarte en él.</p>
+<section>
+<h2>Niños locales tratan de salvar la tierra de una invasión extraterrestre</h2>
+<article>
+<div>
+<p>"Animorphs" es una serie literaria de ciencia ficción dirigida a un público pre-adolescentes a adolescentes, escrita por Katherine Applegate en colaboración con su esposo Micheal Grant bajo el nombre de A. K. Applegate. "Animorphs" cuenta con 54 libros, una serie live action de 2 temporadas, un juego para PlayStation y en este momento 02/04/2024 cuenta con 4 tomos de novela gráfica ilustrada por Chris Grine. Todos los libros de "Animorphs" se encuentran disponibles gratis en su idioma original en pdf y epud:</p>
+<ul>
+<li><a href="https://www.dropbox.com/s/6bx2fri51hgon97/Animorphs%20-%20PDF.zip?dl=0&file_subpath=%2FPDF">Animorphs pdf</a></li>
+<li><a href="https://www.dropbox.com/s/jzikrqvyezhk2i5/Animorphs%20-%20EPUB.zip?dl=0&file_subpath=%2FEPUB">Animorphs epud</a></li>
+</ul>
+</div>
+<p>"Animophs" trata sobre 5 niños: Jake, Rachel, Tobías, Cassie y Marco, quienes encuentran un alien con una herida mortal que les advierte sobre otra raza alíen, los "yeerks", vienen a invadir la tierra. Lamentablemente este alien les informa que su gente, los "andalitas" no pueden venir a defender la tierra hasta dentro de 2 años aprox, y en ese tiempo los "yerks" podrían ya haber conquistado. Para darle un poco de esperanza a estos pobres niños y al planeta tierra, el "andalita" les entrega el poder de la metamorfosis, esta habilidad les permitirá a los niños adquirir el ADN de cualquier animal con el que entren en contacto para transformarse en él, pero no deben pasar más de 2 horas en el cuerpo del animal o quedaran atrapados en esa forma. </p>
+<br>
+<img src="https://reactormag.com/wp-content/uploads/2018/12/animorphs-covers-1.png" alt="Portadas" width="700"><br>
+<br>
+<p>Con esta habilidad este grupo de niños intentaran salvar la tierra o al menos frustrar los planes de los "yeerks" lo más posible en lo que llega la ayuda "andalita".  <p>Cada libro de Animorphs esta narrado desde un punto de vista diferente, lo que hace que uno como lector pueda conocer completamente a cada uno de los personajes, personalmente adoro leer el punto de vista de Tobías, adoro a Tobías en general, es mi bebé y lo voy a defender siempre, seré simp de Tobias hasta la muerte. Nada que ver con la trama pero queria mencionar que los libros en físico tienen un flipbook en la parte baja de las hojas, es algo muy simple pero ingenioso, queria mencionarlo porque me hizo muy feliz cuando logré conseguir algunos en físico y me di cuenta de eso.</p>
+<br>
+<h3>Opinión sin spoilers</h3>
+<p>Desafortunadamente no he tenido el placer de leer todos los libros, aún, pero planeo hacerlo. Animorphs, por el público objetivo que tiene, maneja un inglés muy básico lo que es grandioso si se quiere empezar a leer en inglés, pero si no, puedes encontrar todos los libros traducidos al español en el siguiente link: <a href="https://adolescentessuicidassite.wordpress.com/">Animorphs traducción.</a></p>
+<p>El ritmo de los libros es dinámico, son muy rapidos de leer no solo por la poca cantidad de páginas sino también por lo entretenidos que son, te dejan con la expectativa de que pasará. Cuando crei que iban a volverse repetitivos porque percibi un pequeño patron en los finales de cada libro, PUM, me golpean con algo nuevo haciendo que no pueda parar de leer. A. K. Applegate tiene personajes que podrían verse como clichés de los 90 pero personalmente creo que no alcanzan a ser cliches,no son unidimensionales, percibo a sus personajes lo suficientemente reales como para que un niño se identifique con ellos, en un público mayor podría evocar nostalgia, con la ambientación y referencias a la cultura pop. Una serie con vibras de "E.T", "Enemy mine" y "Power rangers", que le recomendaría a cualquiera que disfrute de la ciencia ficción en el rango etario de entre 10 a 25 años.</p>
+<br>
+<h3>Opinión con spoilers</h3>
+<p>"Animorphs" es una de las mejores cosas que he estado leyendo este año. Note un patron en los finales de los primeros libros, y eso me asusto un poco, no quería que se estuviese repitiendo la misma fórmula una y otra vez, en todos los enfrentamientos "cara a cara" entre los chicos y Visser Tres, pero luego los libros fueron agregando más elementos y variando la formula lo suficiente, expandiendo el universo, con los "Ellimist", "Z-space", nuevos integrantes a los animorphs -Marco invento ese nombre para el grupo-, etc. No voy a mentir algunos plot twist pueden ser predecibles como que el unico Visser humano este usando el cuerpo que nunca fue encontrado de la madre de Marco, pero otros como el que Tobias quede atrapado en la metamorfosis- los andalitas denominan a estos casos "Nothlit"-, en solo el primer libro ya te lanzan esa bomba, quede "plop".</p>
+<p>Amo a todos estos chicos en especial Tobías, pobrecito nadie de su familia lo quería y ni amigos tenía antes de que volverse un animorphs, hasta donde llevo leído aun está atrapado en su forma de halcón sin esperanzas de recuperar su cuerpo humano, por lo que no puede hacer nada al respecto sobre su crush por Rachel -no dice explícitamente que sea su crush pero se leer entre líneas y otros personajes también- y nadie en la escuela ha preguntado por el, mi pobre bebé. Estos libros pueden ser tan angustiosos, nadie va a salir sin traumas de aquí.Empecé a leerlos por un tiktok sobre la última linea del último libros y ponía más o menos algo como "¿No fue un final satisfactorio? Pues que pena, la guerra no es satisfactoria", y me dio curiosidad, bendita seas desconocida de tiktok alteraste mi química cerebral.</p> 
+<p> Si has leído "Animorphs", te ruego, déjame ser tu amiga.</p>
+</article>
+</section>
+<p>Eso es todo, por favor rellenar el siguiente formulario:</p> 
+<br> 
+<form>
+<div>
+<input type="text" placeholder="Nombre">
+</div>
+<div> 
+<input type="email" placeholder="Email">
+</div>
+<div>
+<textarea name="textarea" rows="10" cols="45">Deja un comentario</textarea>
+</div>
+<div>
+<button type="submit">Enviar</button>
+</div>
+</form>
+</body>
+</html>
